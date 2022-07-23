@@ -1,4 +1,5 @@
 # MY HTML JOURNEY
+While most people think HTML is superficial, it is indeed a complicated language with thosands of tricks up in its sleeve. Here, I listed some of the things I have read during my journey.
 
 ## Beggining with MDN tuturial:
 
